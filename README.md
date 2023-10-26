@@ -29,7 +29,7 @@ goal is not only to provide valuable insights into the current situation but als
 understanding of COVID-19, ultimately aiding decision-makers, healthcare professionals, and the public in
 navigating this ongoing crisis.<br>
 <br>
-<b>Data Explanation:<b/><br>
+<b>Data Explanation:</b><br>
 This data set contains the following parameters of COVID-19 cases in the range of year 2019-2023:
 Date_reported: This column records the date on which COVID-19 cases or deaths were officially reported.
 The timeline of reporting is essential for tracking the evolution of the pandemic over time, identifying peaks,
