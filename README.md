@@ -8,7 +8,7 @@ after what appeared to be initial progress in controlling the virus. The pandemi
 2019, has had a profound global impact, leading to millions of cases and deaths, societal disruptions, and
 economic consequences. In some regions, it seemed that the worst was behind us, but even now after 3 years,
 recent developments have prompted a reevaluation of the situation.<br>
-br>
+<br>
 Importance of this topic:<br>
 The world has witnessed waves of infections, lockdowns, vaccination campaigns, and varying government
 responses. These complexities have raised questions about the effectiveness of public health measures, vaccine
